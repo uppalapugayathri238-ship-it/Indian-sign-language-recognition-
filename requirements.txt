@@ -1,0 +1,10 @@
+opencv-python
+mediapipe
+tensorflow
+numpy
+pandas
+matplotlib
+scikit-learn
+pennylane
+qiskit
+qiskit-machine-learning
